@@ -1,0 +1,82 @@
+
+/* header */
+.background-img{
+    background-image: url(../assets/Hero-bg.png);
+    width: 1140px;
+    height: 662px;
+    justify-content: space-around;
+}
+
+/*  banner style */
+.banner-header{
+ font-size: 48px;
+ color: #0D1321;
+ margin: 3px ;
+}
+.banner-description{
+    font-size: 19px;
+    color: #0D1321;
+}
+.content{
+    width: 998px;
+    height: 309px;
+ 
+}
+.banner{
+text-align: center
+}
+/* section style */
+.first-section{
+    text-align: center;
+
+    background-color: rgb(185, 191, 192);
+    margin: 10px 97px 10px 80px;
+}
+.second-title{
+    
+display: flex;
+justify-content:space-around;
+    
+
+}
+.third-section{
+    display:flex;
+    justify-content: space-around;
+
+}
+.fourth-section{
+    display:flex;
+ justify-content: space-around;
+}
+/*  video title */
+.video-section{
+text-align: center;
+}
+
+/* target style */
+.terget-section{
+    text-align: center;
+}
+.target-containner{
+    display: flex;
+ justify-content:space-around;
+ 
+}
+/* footer style */
+.foot{
+    background-image: url(../assets/handshake.jpg);
+    width: 1114px;
+ height: 313px;
+}
+.title{
+    color: #FFFFFF;
+}
+.title-description{
+    color: #FFFFFF;
+}
+.max-footer{
+    text-align: center;
+}
+
+
+
